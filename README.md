@@ -13,4 +13,4 @@ Additionally, my profile picture was created using [Ummmmandy's picrew](https://
 
 ## License
 
-This project is under the MIT license, which you can also ind in the repository.
+This project is under the MIT license, which you can also find in the repository.
